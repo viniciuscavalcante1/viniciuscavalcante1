@@ -9,7 +9,7 @@ I'm a data analyst. I love coffee, programming and data. Last but not least, my 
 
 ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vcavalcanteab&langs_count=10&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscavalcante1&langs_count=10&theme=tokyonight)]()
 
 <!--
 **vcavalcanteab/vcavalcanteab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
