@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Vinícius Cavalcante 👋
+
+I'm a data analyst. I love coffee, programming and data. Last but not least, my favourite food is gnocchi.
+
+## Right now:
+- 📘 I'm studying Computer Information Systems at FIAP.
+- 🧡 I'm currently working at Shopee as a Data Analyst.
+- 📘 I'm also learning more about data analysis with Udacity
+
+---
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vcavalcanteab&langs_count=10&theme=tokyonight)]()
 
 <!--
