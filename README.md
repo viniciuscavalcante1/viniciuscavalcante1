@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 I'm Vinicius Cavalcante, a 24-year-old lifelong learner who loves gnocchi and coffee (of course, not at the same time). <br />
-Currently, I'm studying Python, Java and Mathematics. <br /> <br />
+Currently, I'm studying Python, Java, Mathematics and Cybersecurity. <br /> <br />
 Always remember: consistency is the key.
 <!--
 **viniciuscavalcante1/viniciuscavalcante1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
