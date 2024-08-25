@@ -6,7 +6,7 @@ Currently pursuing a Bachelor degree in Information Systems at [FIAP](https://ww
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,git,css,figma,html,js,obsidian,postman,pycharm?perline=3" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,git,css,figma,html,js,obsidian,postman,pycharm&perline=20" />
   </a>
 </p>
 
