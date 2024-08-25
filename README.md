@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm Vinicius Cavalcante, a 24-year-old lifelong learner from Brazil. I also love coffee, music and running.
+I'm Vinicius Cavalcante, a 25-year-old lifelong learner from Brazil.
 <br><br>
 Currently pursuing a Bachelor degree in Information Systems at [FIAP](https://www.fiap.com.br/) and working full-time at [Shopee](https://www.shopee.com.br).
 
