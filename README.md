@@ -15,6 +15,4 @@ Currently pursuing a Bachelor degree in Information Systems at [FIAP](https://ww
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 
-Currently learning cross-platform languages such as Flutter and Dart.
-
 <br><br>
